@@ -20,8 +20,8 @@ github.com/prometheus/client_model v0.6.3 h1:O0jaTVAYNxTHYInEPFJt5I3+sN8zqBtVMPT
 github.com/prometheus/client_model v0.6.3/go.mod h1:gpN5P9S7Rr6Yr92PiQ+Ixvhf6JZEkF1dnxsYL2aPBEM=
 github.com/prometheus/common v0.72.1 h1:ZAiQed/nk8IIcsdzb2TlJu23NEUDyDLQ9TXTN2WRK6Y=
 github.com/prometheus/common v0.72.1/go.mod h1:1IoBY4IRaJnhs2ESjNzjilP1cJ/P8pimGoomq7zRXrA=
-github.com/prometheus/compliance/remotewrite v0.0.0-20260223092825-818283e1171e h1:tT/KBv0aSFq4AElo/bSVvUd+yNKj72hkRsyiKU45nIQ=
-github.com/prometheus/compliance/remotewrite v0.0.0-20260223092825-818283e1171e/go.mod h1:VEPZGvpSBbzTKc5acnBj9ng4gfo1DZ4qBsCQnoNFiSc=
+github.com/prometheus/compliance/remotewrite v0.0.0-20261027125327-9845db12675e h1:YEPweEb03UfZaI3hJhApQmToNQeBfOlHppNfzS7oois=
+github.com/prometheus/compliance/remotewrite v0.0.0-20261027125327-9845db12675e/go.mod h1:VEPZGvpSBbzTKc5acnBj9ng4gfo1DZ4qBsCQnoNFiSc=
 github.com/prometheus/prometheus v0.307.4-0.20251119130332-1174b0ce4f1f h1:ERPCnBglv9Z4IjkEBTNbcHmZPlryMldXVWLkk7TeBIY=
 github.com/prometheus/prometheus v0.307.4-0.20251119130332-1174b0ce4f1f/go.mod h1:7hcXiGf9AXIKW2ehWWzxkvRYJTGmc2StUIJ8mprfxjg=
 github.com/stretchr/testify v1.12.1 h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWDWE=

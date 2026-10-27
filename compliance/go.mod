@@ -2,7 +2,10 @@ module compliance
 
 go 1.26.10
 
-require github.com/prometheus/compliance/remotewrite v0.0.0-20260223092825-818283e1171e
+require (
+	github.com/prometheus/compliance/remotewrite v0.0.0-20261027125327-9845db12675e
+	github.com/stretchr/testify v1.12.1
+)
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
@@ -15,7 +18,6 @@ require (
 	github.com/prometheus/client_model v0.6.3 // indirect
 	github.com/prometheus/common v0.72.1 // indirect
 	github.com/prometheus/prometheus v0.307.4-0.20251119130332-1174b0ce4f1f // indirect
-	github.com/stretchr/testify v1.12.1 // indirect
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/text v0.43.0 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect
